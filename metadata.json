@@ -2,10 +2,10 @@
   "id": "tote",
   "name": "Tote official repo",
   "packages": 
-    [
-      {
+    {
+      "example": {
         "name": "Example",
         "url": "https://raw.githubusercontent.com/NextStepTeam/ToteExample/refs/heads/main/Totefile"
       }
-    ]
+    }
 }
