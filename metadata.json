@@ -1,3 +1,10 @@
 {
-  "name": "Tote official repo"
+  "name": "Tote official repo",
+  "packages": 
+    [
+      {
+        "name": "Example",
+        "url": "https://raw.githubusercontent.com/NextStepTeam/ToteExample/refs/heads/main/Totefile"
+      }
+    ]
 }
