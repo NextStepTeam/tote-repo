@@ -6,6 +6,10 @@
       "example": {
         "name": "Example",
         "url": "https://raw.githubusercontent.com/NextStepTeam/ToteExample/refs/heads/main/Totefile"
+      },
+      "tote": {
+        "name": "Tote packet manager",
+        "url": "https://raw.githubusercontent.com/NextStepTeam/tote-pm/refs/heads/main/Totefile"
       }
     }
 }
